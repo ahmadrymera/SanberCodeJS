@@ -20,9 +20,22 @@ use this command to run soal1.js
 node soal1.js
 ```
 
+or
+
+``` 
+npm run test1
+```
+
+
+
 use this command to run soal2.js
 ``` 
 node soal2.js
+```
+or
+
+``` 
+npm run test2
 ```
 
 ## Need a Screenshot?
